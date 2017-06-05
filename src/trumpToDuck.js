@@ -18,7 +18,7 @@
       }
 
       if (node.nodeValue.match(/trump/i)) {
-        node.nodeValue = `${node.nodeValue.replace(/\bTrump\b/g, "Donald Duck")}`
+        node.nodeValue = node.nodeValue.replace(/\bTrump\b/g, "Donald Duck");
       }
     });
   })();
