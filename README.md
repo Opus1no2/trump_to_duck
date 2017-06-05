@@ -3,15 +3,15 @@
 
 Trump to Duck is a Chrome extension that converts 'Trump' to 'Duck' on any given web page. Basically, it transforms all instances of the name Donald Trump to...Donald Duck!
 
-###Why?
+### Why?
 Because browsing the web should be fun and the president is easy to make fun of.
 
-###project structure:
+### project structure:
  - src/ contains source files for extension
  - bin/ contains package script for distribution ```./bin/package```
  - dist/ contains zip file composed of the contents in src/
 
-###LICENSE:
+### LICENSE:
 
 Copyright (c) 2017 Travis Tillotson
 
