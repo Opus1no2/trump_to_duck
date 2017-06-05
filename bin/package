@@ -1,0 +1,2 @@
+#!/bin/bash
+zip dist/trump_to_duck.zip src/icon.png src/manifest.json src/trumpToDuck.js
